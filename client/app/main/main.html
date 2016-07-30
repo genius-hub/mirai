@@ -38,10 +38,9 @@
                 chart-dataset-override="datasetOverride" >
         </canvas>
       </div>
-      <div class="col-md-4">
-        <canvas id="line" class="chart chart-line" chart-data="data"
-                chart-labels="labels" chart-series="series" chart-options="options"
-                chart-dataset-override="datasetOverride" chart-click="onClick"
+      <div class="col-md-4" ng-controller="OtherController">
+        <canvas id="bar" class="chart chart-bar"
+                chart-data="data" chart-labels="labels"> chart-series="series"
         </canvas>
       </div>
       <div class="col-md-4">.col-md-4</div>

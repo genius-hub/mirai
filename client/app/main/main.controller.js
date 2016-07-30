@@ -58,7 +58,6 @@
       this.$http.delete('/api/things/' + thing._id);
     }
 
-
   }
 
   angular.module('govhackApp')

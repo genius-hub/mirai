@@ -1,11 +1,54 @@
 <header class="hero-unit" id="banner">
   <div class="container">
-    <h1>'Allo, 'Allo!</h1>
-    <p class="lead">Kick-start your next web app with Angular Fullstack</p>
-    <img src="assets/images/yeoman.png" alt="I'm Yeoman">
+    <h1>Mirai</h1>
+    <p class="lead">Govhack2016 project!</p>
   </div>
 </header>
 
+
+
+<div class="container">
+  <form>
+    <div class="row">
+        <div class="form-group col-xs-3 col-md-3">
+          <label for="industry">Industry</label>
+          <input type="text" class="form-control" id="industry" placeholder="Information Technology">
+        </div>
+        <div class="form-group col-xs-3 col-md-3">
+          <label for="currentLocation">Current Location:</label>
+          <input type="email" class="form-control" id="currentLocation" placeholder="Brisbane, Queensland">
+        </div>
+        <div class="form-group col-xs-3 col-md-3">
+          <label for="futureLocation">Future Location:</label>
+          <input type="email" class="form-control" id="futureLocation" placeholder="Silicon Valley, San Fransisco">
+        </div>
+        <div class="form-group col-xs-3 col-md-3">
+          <label for="age">Age:</label>
+          <input type="email" class="form-control" id="age" placeholder="21">
+        </div>
+    </div>
+    <div class="row rowWithFullWidth">
+      <button type="submit" class="btn btn-default pull-right">Find me a better home...</button>
+    </div>
+  </form>
+  <div class="row">
+      <div class="col-md-4">
+        <canvas id="base" class="chart-bar"
+                chart-data="data" chart-labels="labels" chart-colors="colors"
+                chart-dataset-override="datasetOverride" >
+        </canvas>
+      </div>
+      <div class="col-md-4">
+        <canvas id="line" class="chart chart-line" chart-data="data"
+                chart-labels="labels" chart-series="series" chart-options="options"
+                chart-dataset-override="datasetOverride" chart-click="onClick"
+        </canvas>
+      </div>
+      <div class="col-md-4">.col-md-4</div>
+  </div>
+</div>
+
+<!--
 <div class="container">
   <div class="row">
     <div class="col-lg-12">
@@ -26,3 +69,4 @@
     </p>
   </form>
 </div>
+-->

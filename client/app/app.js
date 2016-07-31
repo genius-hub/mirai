@@ -2,7 +2,7 @@
 
 angular.module('govhackApp', ['govhackApp.auth', 'govhackApp.admin', 'govhackApp.constants',
     'ngCookies', 'ngResource', 'ngSanitize', 'btford.socket-io', 'ui.router', 'ui.bootstrap',
-    'validation.match', 'chart.js', //'uiGmapgoogle-maps'
+    'validation.match'
   ])
   .config(function($urlRouterProvider, $locationProvider) {
     $urlRouterProvider.otherwise('/');

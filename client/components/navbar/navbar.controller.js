@@ -14,5 +14,3 @@ class NavbarController {
 
 angular.module('govhackApp')
   .controller('NavbarController', NavbarController);
-
-)

@@ -1,0 +1,1219 @@
+SA4 Code,SA4 Name,Field,Number Of People
+101,Capital Region,Natural & Physical Sciences,1792
+102,Central Coast,Natural & Physical Sciences,1628
+103,Central West,Natural & Physical Sciences,1010
+104,Coffs Harbour - Grafton,Natural & Physical Sciences,640
+105,Far West and Orana,Natural & Physical Sciences,419
+106,Hunter Valley exc Newcastle,Natural & Physical Sciences,1282
+107,Illawarra,Natural & Physical Sciences,2430
+108,Mid North Coast,Natural & Physical Sciences,738
+109,Murray,Natural & Physical Sciences,500
+110,New England and North West,Natural & Physical Sciences,1030
+111,Newcastle and Lake Macquarie,Natural & Physical Sciences,2979
+112,Richmond - Tweed,Natural & Physical Sciences,1358
+113,Riverina,Natural & Physical Sciences,881
+114,Southern Highlands and Shoalhaven,Natural & Physical Sciences,778
+115,Sydney - Baulkham Hills and Hawkesbury,Natural & Physical Sciences,3081
+116,Sydney - Blacktown,Natural & Physical Sciences,3047
+117,Sydney - City and Inner South,Natural & Physical Sciences,5315
+118,Sydney - Eastern Suburbs,Natural & Physical Sciences,4395
+119,Sydney - Inner South West,Natural & Physical Sciences,5475
+120,Sydney - Inner West,Natural & Physical Sciences,4674
+121,Sydney - North Sydney and Hornsby,Natural & Physical Sciences,7682
+122,Sydney - Northern Beaches,Natural & Physical Sciences,3421
+123,Sydney - Outer South West,Natural & Physical Sciences,1623
+124,Sydney - Outer West and Blue Mountains,Natural & Physical Sciences,2181
+125,Sydney - Parramatta,Natural & Physical Sciences,5424
+126,Sydney - Ryde,Natural & Physical Sciences,3509
+127,Sydney - South West,Natural & Physical Sciences,2600
+128,Sydney - Sutherland,Natural & Physical Sciences,2287
+201,Ballarat,Natural & Physical Sciences,929
+202,Bendigo,Natural & Physical Sciences,980
+203,Geelong,Natural & Physical Sciences,2562
+204,Hume,Natural & Physical Sciences,994
+205,Latrobe - Gippsland,Natural & Physical Sciences,1339
+206,Melbourne - Inner,Natural & Physical Sciences,12203
+207,Melbourne - Inner East,Natural & Physical Sciences,6833
+208,Melbourne - Inner South,Natural & Physical Sciences,6635
+209,Melbourne - North East,Natural & Physical Sciences,6120
+210,Melbourne - North West,Natural & Physical Sciences,2938
+211,Melbourne - Outer East,Natural & Physical Sciences,5676
+212,Melbourne - South East,Natural & Physical Sciences,7841
+213,Melbourne - West,Natural & Physical Sciences,6381
+214,Mornington Peninsula,Natural & Physical Sciences,1757
+215,North West,Natural & Physical Sciences,601
+216,Shepparton,Natural & Physical Sciences,577
+217,Warrnambool and South West,Natural & Physical Sciences,676
+301,Brisbane - East,Natural & Physical Sciences,1663
+302,Brisbane - North,Natural & Physical Sciences,1998
+303,Brisbane - South,Natural & Physical Sciences,4948
+304,Brisbane - West,Natural & Physical Sciences,4560
+305,Brisbane Inner City,Natural & Physical Sciences,4761
+306,Cairns,Natural & Physical Sciences,1637
+307,Darling Downs - Maranoa,Natural & Physical Sciences,429
+308,Fitzroy,Natural & Physical Sciences,1068
+309,Gold Coast,Natural & Physical Sciences,3159
+310,Ipswich,Natural & Physical Sciences,1922
+311,Logan - Beaudesert,Natural & Physical Sciences,1421
+312,Mackay,Natural & Physical Sciences,760
+313,Moreton Bay - North,Natural & Physical Sciences,879
+314,Moreton Bay - South,Natural & Physical Sciences,1401
+315,Queensland - Outback,Natural & Physical Sciences,352
+316,Sunshine Coast,Natural & Physical Sciences,1828
+317,Toowoomba,Natural & Physical Sciences,967
+318,Townsville,Natural & Physical Sciences,2064
+319,Wide Bay,Natural & Physical Sciences,944
+401,Adelaide - Central and Hills,Natural & Physical Sciences,5070
+402,Adelaide - North,Natural & Physical Sciences,2886
+403,Adelaide - South,Natural & Physical Sciences,4239
+404,Adelaide - West,Natural & Physical Sciences,2431
+405,Barossa - Yorke - Mid North,Natural & Physical Sciences,568
+406,South Australia - Outback,Natural & Physical Sciences,319
+407,South Australia - South East,Natural & Physical Sciences,747
+501,Bunbury,Natural & Physical Sciences,1141
+502,Mandurah,Natural & Physical Sciences,362
+503,Perth - Inner,Natural & Physical Sciences,4605
+504,Perth - North East,Natural & Physical Sciences,2430
+505,Perth - North West,Natural & Physical Sciences,6029
+506,Perth - South East,Natural & Physical Sciences,6155
+507,Perth - South West,Natural & Physical Sciences,4803
+508,Western Australia - Outback,Natural & Physical Sciences,1549
+509,Western Australia - Wheat Belt,Natural & Physical Sciences,728
+601,Hobart,Natural & Physical Sciences,3125
+602,Launceston and North East,Natural & Physical Sciences,881
+603,South East,Natural & Physical Sciences,312
+604,West and North West,Natural & Physical Sciences,436
+701,Darwin,Natural & Physical Sciences,1223
+702,Northern Territory - Outback,Natural & Physical Sciences,469
+801,Australian Capital Territory,Natural & Physical Sciences,9544
+101,Capital Region,Information Technology,1491
+102,Central Coast,Information Technology,1857
+103,Central West,Information Technology,655
+104,Coffs Harbour - Grafton,Information Technology,523
+105,Far West and Orana,Information Technology,275
+106,Hunter Valley exc Newcastle,Information Technology,878
+107,Illawarra,Information Technology,2233
+108,Mid North Coast,Information Technology,744
+109,Murray,Information Technology,400
+110,New England and North West,Information Technology,523
+111,Newcastle and Lake Macquarie,Information Technology,2139
+112,Richmond - Tweed,Information Technology,948
+113,Riverina,Information Technology,511
+114,Southern Highlands and Shoalhaven,Information Technology,421
+115,Sydney - Baulkham Hills and Hawkesbury,Information Technology,3688
+116,Sydney - Blacktown,Information Technology,5462
+117,Sydney - City and Inner South,Information Technology,6469
+118,Sydney - Eastern Suburbs,Information Technology,3596
+119,Sydney - Inner South West,Information Technology,9616
+120,Sydney - Inner West,Information Technology,6210
+121,Sydney - North Sydney and Hornsby,Information Technology,9367
+122,Sydney - Northern Beaches,Information Technology,3283
+123,Sydney - Outer South West,Information Technology,1980
+124,Sydney - Outer West and Blue Mountains,Information Technology,2162
+125,Sydney - Parramatta,Information Technology,9835
+126,Sydney - Ryde,Information Technology,4581
+127,Sydney - South West,Information Technology,3929
+128,Sydney - Sutherland,Information Technology,2013
+201,Ballarat,Information Technology,1020
+202,Bendigo,Information Technology,857
+203,Geelong,Information Technology,1680
+204,Hume,Information Technology,641
+205,Latrobe - Gippsland,Information Technology,862
+206,Melbourne - Inner,Information Technology,11639
+207,Melbourne - Inner East,Information Technology,7838
+208,Melbourne - Inner South,Information Technology,7699
+209,Melbourne - North East,Information Technology,6333
+210,Melbourne - North West,Information Technology,3636
+211,Melbourne - Outer East,Information Technology,6647
+212,Melbourne - South East,Information Technology,11573
+213,Melbourne - West,Information Technology,10989
+214,Mornington Peninsula,Information Technology,1774
+215,North West,Information Technology,325
+216,Shepparton,Information Technology,264
+217,Warrnambool and South West,Information Technology,273
+301,Brisbane - East,Information Technology,1766
+302,Brisbane - North,Information Technology,2506
+303,Brisbane - South,Information Technology,5715
+304,Brisbane - West,Information Technology,2932
+305,Brisbane Inner City,Information Technology,4232
+306,Cairns,Information Technology,830
+307,Darling Downs - Maranoa,Information Technology,223
+308,Fitzroy,Information Technology,761
+309,Gold Coast,Information Technology,3426
+310,Ipswich,Information Technology,2033
+311,Logan - Beaudesert,Information Technology,1984
+312,Mackay,Information Technology,439
+313,Moreton Bay - North,Information Technology,1106
+314,Moreton Bay - South,Information Technology,1679
+315,Queensland - Outback,Information Technology,137
+316,Sunshine Coast,Information Technology,1362
+317,Toowoomba,Information Technology,728
+318,Townsville,Information Technology,945
+319,Wide Bay,Information Technology,759
+401,Adelaide - Central and Hills,Information Technology,3150
+402,Adelaide - North,Information Technology,3400
+403,Adelaide - South,Information Technology,2799
+404,Adelaide - West,Information Technology,2125
+405,Barossa - Yorke - Mid North,Information Technology,219
+406,South Australia - Outback,Information Technology,178
+407,South Australia - South East,Information Technology,399
+501,Bunbury,Information Technology,490
+502,Mandurah,Information Technology,296
+503,Perth - Inner,Information Technology,1934
+504,Perth - North East,Information Technology,1932
+505,Perth - North West,Information Technology,4790
+506,Perth - South East,Information Technology,4743
+507,Perth - South West,Information Technology,2918
+508,Western Australia - Outback,Information Technology,585
+509,Western Australia - Wheat Belt,Information Technology,303
+601,Hobart,Information Technology,1941
+602,Launceston and North East,Information Technology,709
+603,South East,Information Technology,135
+604,West and North West,Information Technology,400
+701,Darwin,Information Technology,1029
+702,Northern Territory - Outback,Information Technology,234
+801,Australian Capital Territory,Information Technology,10438
+101,Capital Region,Engineering & Related Technologies,10055
+102,Central Coast,Engineering & Related Technologies,15097
+103,Central West,Engineering & Related Technologies,10553
+104,Coffs Harbour - Grafton,Engineering & Related Technologies,5726
+105,Far West and Orana,Engineering & Related Technologies,4917
+106,Hunter Valley exc Newcastle,Engineering & Related Technologies,18942
+107,Illawarra,Engineering & Related Technologies,18774
+108,Mid North Coast,Engineering & Related Technologies,8675
+109,Murray,Engineering & Related Technologies,5240
+110,New England and North West,Engineering & Related Technologies,7409
+111,Newcastle and Lake Macquarie,Engineering & Related Technologies,23116
+112,Richmond - Tweed,Engineering & Related Technologies,9181
+113,Riverina,Engineering & Related Technologies,7261
+114,Southern Highlands and Shoalhaven,Engineering & Related Technologies,7319
+115,Sydney - Baulkham Hills and Hawkesbury,Engineering & Related Technologies,12978
+116,Sydney - Blacktown,Engineering & Related Technologies,16857
+117,Sydney - City and Inner South,Engineering & Related Technologies,10384
+118,Sydney - Eastern Suburbs,Engineering & Related Technologies,9586
+119,Sydney - Inner South West,Engineering & Related Technologies,24345
+120,Sydney - Inner West,Engineering & Related Technologies,11193
+121,Sydney - North Sydney and Hornsby,Engineering & Related Technologies,15715
+122,Sydney - Northern Beaches,Engineering & Related Technologies,11080
+123,Sydney - Outer South West,Engineering & Related Technologies,14571
+124,Sydney - Outer West and Blue Mountains,Engineering & Related Technologies,17090
+125,Sydney - Parramatta,Engineering & Related Technologies,19453
+126,Sydney - Ryde,Engineering & Related Technologies,8674
+127,Sydney - South West,Engineering & Related Technologies,17110
+128,Sydney - Sutherland,Engineering & Related Technologies,14226
+201,Ballarat,Engineering & Related Technologies,6783
+202,Bendigo,Engineering & Related Technologies,6678
+203,Geelong,Engineering & Related Technologies,12959
+204,Hume,Engineering & Related Technologies,8445
+205,Latrobe - Gippsland,Engineering & Related Technologies,14813
+206,Melbourne - Inner,Engineering & Related Technologies,20525
+207,Melbourne - Inner East,Engineering & Related Technologies,14513
+208,Melbourne - Inner South,Engineering & Related Technologies,17330
+209,Melbourne - North East,Engineering & Related Technologies,23400
+210,Melbourne - North West,Engineering & Related Technologies,16965
+211,Melbourne - Outer East,Engineering & Related Technologies,28720
+212,Melbourne - South East,Engineering & Related Technologies,38293
+213,Melbourne - West,Engineering & Related Technologies,33664
+214,Mornington Peninsula,Engineering & Related Technologies,13839
+215,North West,Engineering & Related Technologies,5792
+216,Shepparton,Engineering & Related Technologies,5822
+217,Warrnambool and South West,Engineering & Related Technologies,5311
+301,Brisbane - East,Engineering & Related Technologies,13508
+302,Brisbane - North,Engineering & Related Technologies,10372
+303,Brisbane - South,Engineering & Related Technologies,17073
+304,Brisbane - West,Engineering & Related Technologies,9556
+305,Brisbane Inner City,Engineering & Related Technologies,12180
+306,Cairns,Engineering & Related Technologies,12953
+307,Darling Downs - Maranoa,Engineering & Related Technologies,5783
+308,Fitzroy,Engineering & Related Technologies,16299
+309,Gold Coast,Engineering & Related Technologies,23945
+310,Ipswich,Engineering & Related Technologies,15496
+311,Logan - Beaudesert,Engineering & Related Technologies,15975
+312,Mackay,Engineering & Related Technologies,15391
+313,Moreton Bay - North,Engineering & Related Technologies,10972
+314,Moreton Bay - South,Engineering & Related Technologies,10685
+315,Queensland - Outback,Engineering & Related Technologies,4770
+316,Sunshine Coast,Engineering & Related Technologies,14803
+317,Toowoomba,Engineering & Related Technologies,7079
+318,Townsville,Engineering & Related Technologies,14246
+319,Wide Bay,Engineering & Related Technologies,12820
+401,Adelaide - Central and Hills,Engineering & Related Technologies,12982
+402,Adelaide - North,Engineering & Related Technologies,22471
+403,Adelaide - South,Engineering & Related Technologies,18609
+404,Adelaide - West,Engineering & Related Technologies,11926
+405,Barossa - Yorke - Mid North,Engineering & Related Technologies,5535
+406,South Australia - Outback,Engineering & Related Technologies,5747
+407,South Australia - South East,Engineering & Related Technologies,8190
+501,Bunbury,Engineering & Related Technologies,10466
+502,Mandurah,Engineering & Related Technologies,4992
+503,Perth - Inner,Engineering & Related Technologies,9211
+504,Perth - North East,Engineering & Related Technologies,14925
+505,Perth - North West,Engineering & Related Technologies,31196
+506,Perth - South East,Engineering & Related Technologies,30430
+507,Perth - South West,Engineering & Related Technologies,25268
+508,Western Australia - Outback,Engineering & Related Technologies,18896
+509,Western Australia - Wheat Belt,Engineering & Related Technologies,6625
+601,Hobart,Engineering & Related Technologies,9432
+602,Launceston and North East,Engineering & Related Technologies,6845
+603,South East,Engineering & Related Technologies,1692
+604,West and North West,Engineering & Related Technologies,6072
+701,Darwin,Engineering & Related Technologies,8047
+702,Northern Territory - Outback,Engineering & Related Technologies,3623
+801,Australian Capital Territory,Engineering & Related Technologies,14297
+101,Capital Region,Architecture & Building,5059
+102,Central Coast,Architecture & Building,7857
+103,Central West,Architecture & Building,3605
+104,Coffs Harbour - Grafton,Architecture & Building,3181
+105,Far West and Orana,Architecture & Building,1767
+106,Hunter Valley exc Newcastle,Architecture & Building,4367
+107,Illawarra,Architecture & Building,6243
+108,Mid North Coast,Architecture & Building,4667
+109,Murray,Architecture & Building,2143
+110,New England and North West,Architecture & Building,2977
+111,Newcastle and Lake Macquarie,Architecture & Building,7773
+112,Richmond - Tweed,Architecture & Building,5845
+113,Riverina,Architecture & Building,2779
+114,Southern Highlands and Shoalhaven,Architecture & Building,3316
+115,Sydney - Baulkham Hills and Hawkesbury,Architecture & Building,4837
+116,Sydney - Blacktown,Architecture & Building,4417
+117,Sydney - City and Inner South,Architecture & Building,4976
+118,Sydney - Eastern Suburbs,Architecture & Building,5327
+119,Sydney - Inner South West,Architecture & Building,8303
+120,Sydney - Inner West,Architecture & Building,4791
+121,Sydney - North Sydney and Hornsby,Architecture & Building,5821
+122,Sydney - Northern Beaches,Architecture & Building,6381
+123,Sydney - Outer South West,Architecture & Building,4831
+124,Sydney - Outer West and Blue Mountains,Architecture & Building,6135
+125,Sydney - Parramatta,Architecture & Building,5873
+126,Sydney - Ryde,Architecture & Building,2494
+127,Sydney - South West,Architecture & Building,5321
+128,Sydney - Sutherland,Architecture & Building,5776
+201,Ballarat,Architecture & Building,3178
+202,Bendigo,Architecture & Building,3113
+203,Geelong,Architecture & Building,6688
+204,Hume,Architecture & Building,3504
+205,Latrobe - Gippsland,Architecture & Building,6275
+206,Melbourne - Inner,Architecture & Building,11259
+207,Melbourne - Inner East,Architecture & Building,5205
+208,Melbourne - Inner South,Architecture & Building,7324
+209,Melbourne - North East,Architecture & Building,9252
+210,Melbourne - North West,Architecture & Building,5833
+211,Melbourne - Outer East,Architecture & Building,12666
+212,Melbourne - South East,Architecture & Building,11091
+213,Melbourne - West,Architecture & Building,10126
+214,Mornington Peninsula,Architecture & Building,7512
+215,North West,Architecture & Building,2372
+216,Shepparton,Architecture & Building,2188
+217,Warrnambool and South West,Architecture & Building,2642
+301,Brisbane - East,Architecture & Building,5527
+302,Brisbane - North,Architecture & Building,4129
+303,Brisbane - South,Architecture & Building,6287
+304,Brisbane - West,Architecture & Building,3319
+305,Brisbane Inner City,Architecture & Building,5560
+306,Cairns,Architecture & Building,5417
+307,Darling Downs - Maranoa,Architecture & Building,1887
+308,Fitzroy,Architecture & Building,4448
+309,Gold Coast,Architecture & Building,15026
+310,Ipswich,Architecture & Building,4730
+311,Logan - Beaudesert,Architecture & Building,6610
+312,Mackay,Architecture & Building,3980
+313,Moreton Bay - North,Architecture & Building,4941
+314,Moreton Bay - South,Architecture & Building,4154
+315,Queensland - Outback,Architecture & Building,1461
+316,Sunshine Coast,Architecture & Building,9717
+317,Toowoomba,Architecture & Building,2862
+318,Townsville,Architecture & Building,4766
+319,Wide Bay,Architecture & Building,5402
+401,Adelaide - Central and Hills,Architecture & Building,4835
+402,Adelaide - North,Architecture & Building,5636
+403,Adelaide - South,Architecture & Building,6487
+404,Adelaide - West,Architecture & Building,3454
+405,Barossa - Yorke - Mid North,Architecture & Building,1388
+406,South Australia - Outback,Architecture & Building,1305
+407,South Australia - South East,Architecture & Building,2642
+501,Bunbury,Architecture & Building,3786
+502,Mandurah,Architecture & Building,1707
+503,Perth - Inner,Architecture & Building,3191
+504,Perth - North East,Architecture & Building,4058
+505,Perth - North West,Architecture & Building,12065
+506,Perth - South East,Architecture & Building,7750
+507,Perth - South West,Architecture & Building,6794
+508,Western Australia - Outback,Architecture & Building,4493
+509,Western Australia - Wheat Belt,Architecture & Building,1985
+601,Hobart,Architecture & Building,4721
+602,Launceston and North East,Architecture & Building,2828
+603,South East,Architecture & Building,783
+604,West and North West,Architecture & Building,2265
+701,Darwin,Architecture & Building,2479
+702,Northern Territory - Outback,Architecture & Building,1341
+801,Australian Capital Territory,Architecture & Building,6435
+101,Capital Region,"Agriculture, Environmental & Related Studies",2787
+102,Central Coast,"Agriculture, Environmental & Related Studies",1874
+103,Central West,"Agriculture, Environmental & Related Studies",2926
+104,Coffs Harbour - Grafton,"Agriculture, Environmental & Related Studies",1378
+105,Far West and Orana,"Agriculture, Environmental & Related Studies",1809
+106,Hunter Valley exc Newcastle,"Agriculture, Environmental & Related Studies",1974
+107,Illawarra,"Agriculture, Environmental & Related Studies",1485
+108,Mid North Coast,"Agriculture, Environmental & Related Studies",1732
+109,Murray,"Agriculture, Environmental & Related Studies",1954
+110,New England and North West,"Agriculture, Environmental & Related Studies",3047
+111,Newcastle and Lake Macquarie,"Agriculture, Environmental & Related Studies",1755
+112,Richmond - Tweed,"Agriculture, Environmental & Related Studies",2440
+113,Riverina,"Agriculture, Environmental & Related Studies",2391
+114,Southern Highlands and Shoalhaven,"Agriculture, Environmental & Related Studies",1239
+115,Sydney - Baulkham Hills and Hawkesbury,"Agriculture, Environmental & Related Studies",1422
+116,Sydney - Blacktown,"Agriculture, Environmental & Related Studies",1146
+117,Sydney - City and Inner South,"Agriculture, Environmental & Related Studies",1162
+118,Sydney - Eastern Suburbs,"Agriculture, Environmental & Related Studies",1044
+119,Sydney - Inner South West,"Agriculture, Environmental & Related Studies",1266
+120,Sydney - Inner West,"Agriculture, Environmental & Related Studies",1023
+121,Sydney - North Sydney and Hornsby,"Agriculture, Environmental & Related Studies",1879
+122,Sydney - Northern Beaches,"Agriculture, Environmental & Related Studies",1630
+123,Sydney - Outer South West,"Agriculture, Environmental & Related Studies",1185
+124,Sydney - Outer West and Blue Mountains,"Agriculture, Environmental & Related Studies",1864
+125,Sydney - Parramatta,"Agriculture, Environmental & Related Studies",1153
+126,Sydney - Ryde,"Agriculture, Environmental & Related Studies",746
+127,Sydney - South West,"Agriculture, Environmental & Related Studies",757
+128,Sydney - Sutherland,"Agriculture, Environmental & Related Studies",1050
+201,Ballarat,"Agriculture, Environmental & Related Studies",1527
+202,Bendigo,"Agriculture, Environmental & Related Studies",1711
+203,Geelong,"Agriculture, Environmental & Related Studies",2030
+204,Hume,"Agriculture, Environmental & Related Studies",2365
+205,Latrobe - Gippsland,"Agriculture, Environmental & Related Studies",3217
+206,Melbourne - Inner,"Agriculture, Environmental & Related Studies",2884
+207,Melbourne - Inner East,"Agriculture, Environmental & Related Studies",1336
+208,Melbourne - Inner South,"Agriculture, Environmental & Related Studies",1668
+209,Melbourne - North East,"Agriculture, Environmental & Related Studies",2128
+210,Melbourne - North West,"Agriculture, Environmental & Related Studies",1328
+211,Melbourne - Outer East,"Agriculture, Environmental & Related Studies",3491
+212,Melbourne - South East,"Agriculture, Environmental & Related Studies",3009
+213,Melbourne - West,"Agriculture, Environmental & Related Studies",2249
+214,Mornington Peninsula,"Agriculture, Environmental & Related Studies",2105
+215,North West,"Agriculture, Environmental & Related Studies",2912
+216,Shepparton,"Agriculture, Environmental & Related Studies",1860
+217,Warrnambool and South West,"Agriculture, Environmental & Related Studies",2590
+301,Brisbane - East,"Agriculture, Environmental & Related Studies",1151
+302,Brisbane - North,"Agriculture, Environmental & Related Studies",887
+303,Brisbane - South,"Agriculture, Environmental & Related Studies",1483
+304,Brisbane - West,"Agriculture, Environmental & Related Studies",1110
+305,Brisbane Inner City,"Agriculture, Environmental & Related Studies",1374
+306,Cairns,"Agriculture, Environmental & Related Studies",1786
+307,Darling Downs - Maranoa,"Agriculture, Environmental & Related Studies",2025
+308,Fitzroy,"Agriculture, Environmental & Related Studies",1499
+309,Gold Coast,"Agriculture, Environmental & Related Studies",2661
+310,Ipswich,"Agriculture, Environmental & Related Studies",1452
+311,Logan - Beaudesert,"Agriculture, Environmental & Related Studies",1203
+312,Mackay,"Agriculture, Environmental & Related Studies",1023
+313,Moreton Bay - North,"Agriculture, Environmental & Related Studies",1095
+314,Moreton Bay - South,"Agriculture, Environmental & Related Studies",971
+315,Queensland - Outback,"Agriculture, Environmental & Related Studies",971
+316,Sunshine Coast,"Agriculture, Environmental & Related Studies",2522
+317,Toowoomba,"Agriculture, Environmental & Related Studies",1355
+318,Townsville,"Agriculture, Environmental & Related Studies",1257
+319,Wide Bay,"Agriculture, Environmental & Related Studies",1992
+401,Adelaide - Central and Hills,"Agriculture, Environmental & Related Studies",2058
+402,Adelaide - North,"Agriculture, Environmental & Related Studies",1770
+403,Adelaide - South,"Agriculture, Environmental & Related Studies",2157
+404,Adelaide - West,"Agriculture, Environmental & Related Studies",982
+405,Barossa - Yorke - Mid North,"Agriculture, Environmental & Related Studies",1513
+406,South Australia - Outback,"Agriculture, Environmental & Related Studies",815
+407,South Australia - South East,"Agriculture, Environmental & Related Studies",2729
+501,Bunbury,"Agriculture, Environmental & Related Studies",1714
+502,Mandurah,"Agriculture, Environmental & Related Studies",462
+503,Perth - Inner,"Agriculture, Environmental & Related Studies",977
+504,Perth - North East,"Agriculture, Environmental & Related Studies",1222
+505,Perth - North West,"Agriculture, Environmental & Related Studies",2326
+506,Perth - South East,"Agriculture, Environmental & Related Studies",2431
+507,Perth - South West,"Agriculture, Environmental & Related Studies",2193
+508,Western Australia - Outback,"Agriculture, Environmental & Related Studies",2092
+509,Western Australia - Wheat Belt,"Agriculture, Environmental & Related Studies",2539
+601,Hobart,"Agriculture, Environmental & Related Studies",1625
+602,Launceston and North East,"Agriculture, Environmental & Related Studies",1506
+603,South East,"Agriculture, Environmental & Related Studies",603
+604,West and North West,"Agriculture, Environmental & Related Studies",1082
+701,Darwin,"Agriculture, Environmental & Related Studies",1056
+702,Northern Territory - Outback,"Agriculture, Environmental & Related Studies",814
+801,Australian Capital Territory,"Agriculture, Environmental & Related Studies",2794
+101,Capital Region,Health,5742
+102,Central Coast,Health,9771
+103,Central West,Health,5808
+104,Coffs Harbour - Grafton,Health,4134
+105,Far West and Orana,Health,3217
+106,Hunter Valley exc Newcastle,Health,6670
+107,Illawarra,Health,8230
+108,Mid North Coast,Health,6283
+109,Murray,Health,3397
+110,New England and North West,Health,5050
+111,Newcastle and Lake Macquarie,Health,13428
+112,Richmond - Tweed,Health,8177
+113,Riverina,Health,4127
+114,Southern Highlands and Shoalhaven,Health,4127
+115,Sydney - Baulkham Hills and Hawkesbury,Health,6870
+116,Sydney - Blacktown,Health,7353
+117,Sydney - City and Inner South,Health,8384
+118,Sydney - Eastern Suburbs,Health,9739
+119,Sydney - Inner South West,Health,11725
+120,Sydney - Inner West,Health,9791
+121,Sydney - North Sydney and Hornsby,Health,15124
+122,Sydney - Northern Beaches,Health,7535
+123,Sydney - Outer South West,Health,5563
+124,Sydney - Outer West and Blue Mountains,Health,7931
+125,Sydney - Parramatta,Health,10528
+126,Sydney - Ryde,Health,5916
+127,Sydney - South West,Health,6259
+128,Sydney - Sutherland,Health,6459
+201,Ballarat,Health,5331
+202,Bendigo,Health,5413
+203,Geelong,Health,9585
+204,Hume,Health,5316
+205,Latrobe - Gippsland,Health,7526
+206,Melbourne - Inner,Health,22191
+207,Melbourne - Inner East,Health,15555
+208,Melbourne - Inner South,Health,14588
+209,Melbourne - North East,Health,13998
+210,Melbourne - North West,Health,7099
+211,Melbourne - Outer East,Health,15471
+212,Melbourne - South East,Health,16255
+213,Melbourne - West,Health,14007
+214,Mornington Peninsula,Health,8602
+215,North West,Health,4410
+216,Shepparton,Health,3690
+217,Warrnambool and South West,Health,4151
+301,Brisbane - East,Health,6149
+302,Brisbane - North,Health,7291
+303,Brisbane - South,Health,13020
+304,Brisbane - West,Health,8077
+305,Brisbane Inner City,Health,12210
+306,Cairns,Health,6597
+307,Darling Downs - Maranoa,Health,2856
+308,Fitzroy,Health,5116
+309,Gold Coast,Health,16195
+310,Ipswich,Health,6545
+311,Logan - Beaudesert,Health,5886
+312,Mackay,Health,3734
+313,Moreton Bay - North,Health,5247
+314,Moreton Bay - South,Health,5461
+315,Queensland - Outback,Health,1889
+316,Sunshine Coast,Health,11053
+317,Toowoomba,Health,4907
+318,Townsville,Health,7055
+319,Wide Bay,Health,6953
+401,Adelaide - Central and Hills,Health,14804
+402,Adelaide - North,Health,10969
+403,Adelaide - South,Health,14436
+404,Adelaide - West,Health,7276
+405,Barossa - Yorke - Mid North,Health,3140
+406,South Australia - Outback,Health,2217
+407,South Australia - South East,Health,4728
+501,Bunbury,Health,4510
+502,Mandurah,Health,1776
+503,Perth - Inner,Health,9290
+504,Perth - North East,Health,5734
+505,Perth - North West,Health,16705
+506,Perth - South East,Health,13122
+507,Perth - South West,Health,11956
+508,Western Australia - Outback,Health,5164
+509,Western Australia - Wheat Belt,Health,3258
+601,Hobart,Health,7048
+602,Launceston and North East,Health,4213
+603,South East,Health,810
+604,West and North West,Health,2655
+701,Darwin,Health,4094
+702,Northern Territory - Outback,Health,2384
+801,Australian Capital Territory,Health,10868
+101,Capital Region,Education,5523
+102,Central Coast,Education,8083
+103,Central West,Education,5514
+104,Coffs Harbour - Grafton,Education,3811
+105,Far West and Orana,Education,3208
+106,Hunter Valley exc Newcastle,Education,5380
+107,Illawarra,Education,8635
+108,Mid North Coast,Education,5278
+109,Murray,Education,2931
+110,New England and North West,Education,5040
+111,Newcastle and Lake Macquarie,Education,10583
+112,Richmond - Tweed,Education,7436
+113,Riverina,Education,4168
+114,Southern Highlands and Shoalhaven,Education,3887
+115,Sydney - Baulkham Hills and Hawkesbury,Education,7232
+116,Sydney - Blacktown,Education,6246
+117,Sydney - City and Inner South,Education,6153
+118,Sydney - Eastern Suburbs,Education,6434
+119,Sydney - Inner South West,Education,10988
+120,Sydney - Inner West,Education,7709
+121,Sydney - North Sydney and Hornsby,Education,11157
+122,Sydney - Northern Beaches,Education,7447
+123,Sydney - Outer South West,Education,6075
+124,Sydney - Outer West and Blue Mountains,Education,9017
+125,Sydney - Parramatta,Education,8007
+126,Sydney - Ryde,Education,4942
+127,Sydney - South West,Education,6094
+128,Sydney - Sutherland,Education,7757
+201,Ballarat,Education,4574
+202,Bendigo,Education,4652
+203,Geelong,Education,8083
+204,Hume,Education,4619
+205,Latrobe - Gippsland,Education,6930
+206,Melbourne - Inner,Education,15818
+207,Melbourne - Inner East,Education,10868
+208,Melbourne - Inner South,Education,13105
+209,Melbourne - North East,Education,12257
+210,Melbourne - North West,Education,7283
+211,Melbourne - Outer East,Education,14300
+212,Melbourne - South East,Education,13202
+213,Melbourne - West,Education,12247
+214,Mornington Peninsula,Education,7557
+215,North West,Education,3862
+216,Shepparton,Education,3108
+217,Warrnambool and South West,Education,3409
+301,Brisbane - East,Education,5769
+302,Brisbane - North,Education,5589
+303,Brisbane - South,Education,9807
+304,Brisbane - West,Education,6413
+305,Brisbane Inner City,Education,7106
+306,Cairns,Education,6034
+307,Darling Downs - Maranoa,Education,3199
+308,Fitzroy,Education,5403
+309,Gold Coast,Education,12689
+310,Ipswich,Education,5809
+311,Logan - Beaudesert,Education,5935
+312,Mackay,Education,3947
+313,Moreton Bay - North,Education,4245
+314,Moreton Bay - South,Education,5013
+315,Queensland - Outback,Education,2074
+316,Sunshine Coast,Education,9680
+317,Toowoomba,Education,4453
+318,Townsville,Education,5426
+319,Wide Bay,Education,6861
+401,Adelaide - Central and Hills,Education,9515
+402,Adelaide - North,Education,6898
+403,Adelaide - South,Education,9517
+404,Adelaide - West,Education,5170
+405,Barossa - Yorke - Mid North,Education,2544
+406,South Australia - Outback,Education,1976
+407,South Australia - South East,Education,3977
+501,Bunbury,Education,4779
+502,Mandurah,Education,2019
+503,Perth - Inner,Education,5203
+504,Perth - North East,Education,5674
+505,Perth - North West,Education,14670
+506,Perth - South East,Education,10627
+507,Perth - South West,Education,10098
+508,Western Australia - Outback,Education,5284
+509,Western Australia - Wheat Belt,Education,3710
+601,Hobart,Education,5899
+602,Launceston and North East,Education,3676
+603,South East,Education,695
+604,West and North West,Education,2575
+701,Darwin,Education,3285
+702,Northern Territory - Outback,Education,2433
+801,Australian Capital Territory,Education,10275
+101,Capital Region,Management & Commerce,9144
+102,Central Coast,Management & Commerce,14419
+103,Central West,Management & Commerce,7120
+104,Coffs Harbour - Grafton,Management & Commerce,5041
+105,Far West and Orana,Management & Commerce,3665
+106,Hunter Valley exc Newcastle,Management & Commerce,9885
+107,Illawarra,Management & Commerce,13895
+108,Mid North Coast,Management & Commerce,6812
+109,Murray,Management & Commerce,4384
+110,New England and North West,Management & Commerce,6258
+111,Newcastle and Lake Macquarie,Management & Commerce,17184
+112,Richmond - Tweed,Management & Commerce,8711
+113,Riverina,Management & Commerce,5803
+114,Southern Highlands and Shoalhaven,Management & Commerce,4977
+115,Sydney - Baulkham Hills and Hawkesbury,Management & Commerce,19429
+116,Sydney - Blacktown,Management & Commerce,20917
+117,Sydney - City and Inner South,Management & Commerce,31656
+118,Sydney - Eastern Suburbs,Management & Commerce,28260
+119,Sydney - Inner South West,Management & Commerce,41322
+120,Sydney - Inner West,Management & Commerce,29931
+121,Sydney - North Sydney and Hornsby,Management & Commerce,48805
+122,Sydney - Northern Beaches,Management & Commerce,23326
+123,Sydney - Outer South West,Management & Commerce,12248
+124,Sydney - Outer West and Blue Mountains,Management & Commerce,15021
+125,Sydney - Parramatta,Management & Commerce,33096
+126,Sydney - Ryde,Management & Commerce,18896
+127,Sydney - South West,Management & Commerce,18535
+128,Sydney - Sutherland,Management & Commerce,16617
+201,Ballarat,Management & Commerce,6203
+202,Bendigo,Management & Commerce,5336
+203,Geelong,Management & Commerce,11928
+204,Hume,Management & Commerce,5892
+205,Latrobe - Gippsland,Management & Commerce,8289
+206,Melbourne - Inner,Management & Commerce,55060
+207,Melbourne - Inner East,Management & Commerce,35591
+208,Melbourne - Inner South,Management & Commerce,36463
+209,Melbourne - North East,Management & Commerce,27185
+210,Melbourne - North West,Management & Commerce,16703
+211,Melbourne - Outer East,Management & Commerce,30384
+212,Melbourne - South East,Management & Commerce,42243
+213,Melbourne - West,Management & Commerce,39836
+214,Mornington Peninsula,Management & Commerce,11991
+215,North West,Management & Commerce,4305
+216,Shepparton,Management & Commerce,3689
+217,Warrnambool and South West,Management & Commerce,3855
+301,Brisbane - East,Management & Commerce,12374
+302,Brisbane - North,Management & Commerce,13787
+303,Brisbane - South,Management & Commerce,27330
+304,Brisbane - West,Management & Commerce,14432
+305,Brisbane Inner City,Management & Commerce,24525
+306,Cairns,Management & Commerce,9486
+307,Darling Downs - Maranoa,Management & Commerce,3639
+308,Fitzroy,Management & Commerce,7622
+309,Gold Coast,Management & Commerce,29871
+310,Ipswich,Management & Commerce,12114
+311,Logan - Beaudesert,Management & Commerce,12656
+312,Mackay,Management & Commerce,6010
+313,Moreton Bay - North,Management & Commerce,8304
+314,Moreton Bay - South,Management & Commerce,10601
+315,Queensland - Outback,Management & Commerce,2194
+316,Sunshine Coast,Management & Commerce,13843
+317,Toowoomba,Management & Commerce,6305
+318,Townsville,Management & Commerce,8857
+319,Wide Bay,Management & Commerce,8047
+401,Adelaide - Central and Hills,Management & Commerce,20327
+402,Adelaide - North,Management & Commerce,18089
+403,Adelaide - South,Management & Commerce,19149
+404,Adelaide - West,Management & Commerce,12295
+405,Barossa - Yorke - Mid North,Management & Commerce,3015
+406,South Australia - Outback,Management & Commerce,2370
+407,South Australia - South East,Management & Commerce,5214
+501,Bunbury,Management & Commerce,5332
+502,Mandurah,Management & Commerce,2585
+503,Perth - Inner,Management & Commerce,14624
+504,Perth - North East,Management & Commerce,11107
+505,Perth - North West,Management & Commerce,30054
+506,Perth - South East,Management & Commerce,26794
+507,Perth - South West,Management & Commerce,19380
+508,Western Australia - Outback,Management & Commerce,6710
+509,Western Australia - Wheat Belt,Management & Commerce,3615
+601,Hobart,Management & Commerce,10654
+602,Launceston and North East,Management & Commerce,5162
+603,South East,Management & Commerce,1100
+604,West and North West,Management & Commerce,3582
+701,Darwin,Management & Commerce,6979
+702,Northern Territory - Outback,Management & Commerce,2518
+801,Australian Capital Territory,Management & Commerce,28322
+101,Capital Region,Society & Culture,7757
+102,Central Coast,Society & Culture,9360
+103,Central West,Society & Culture,4893
+104,Coffs Harbour - Grafton,Society & Culture,4089
+105,Far West and Orana,Society & Culture,2708
+106,Hunter Valley exc Newcastle,Society & Culture,5585
+107,Illawarra,Society & Culture,9951
+108,Mid North Coast,Society & Culture,5178
+109,Murray,Society & Culture,2868
+110,New England and North West,Society & Culture,5154
+111,Newcastle and Lake Macquarie,Society & Culture,11337
+112,Richmond - Tweed,Society & Culture,7728
+113,Riverina,Society & Culture,3618
+114,Southern Highlands and Shoalhaven,Society & Culture,4285
+115,Sydney - Baulkham Hills and Hawkesbury,Society & Culture,7709
+116,Sydney - Blacktown,Society & Culture,8604
+117,Sydney - City and Inner South,Society & Culture,20934
+118,Sydney - Eastern Suburbs,Society & Culture,18453
+119,Sydney - Inner South West,Society & Culture,16786
+120,Sydney - Inner West,Society & Culture,16473
+121,Sydney - North Sydney and Hornsby,Society & Culture,25754
+122,Sydney - Northern Beaches,Society & Culture,11687
+123,Sydney - Outer South West,Society & Culture,7379
+124,Sydney - Outer West and Blue Mountains,Society & Culture,10293
+125,Sydney - Parramatta,Society & Culture,12607
+126,Sydney - Ryde,Society & Culture,8320
+127,Sydney - South West,Society & Culture,7929
+128,Sydney - Sutherland,Society & Culture,7915
+201,Ballarat,Society & Culture,5049
+202,Bendigo,Society & Culture,5008
+203,Geelong,Society & Culture,8849
+204,Hume,Society & Culture,4925
+205,Latrobe - Gippsland,Society & Culture,7504
+206,Melbourne - Inner,Society & Culture,38837
+207,Melbourne - Inner East,Society & Culture,17707
+208,Melbourne - Inner South,Society & Culture,18934
+209,Melbourne - North East,Society & Culture,17215
+210,Melbourne - North West,Society & Culture,9409
+211,Melbourne - Outer East,Society & Culture,18165
+212,Melbourne - South East,Society & Culture,21009
+213,Melbourne - West,Society & Culture,20584
+214,Mornington Peninsula,Society & Culture,8688
+215,North West,Society & Culture,3642
+216,Shepparton,Society & Culture,3086
+217,Warrnambool and South West,Society & Culture,3206
+301,Brisbane - East,Society & Culture,6784
+302,Brisbane - North,Society & Culture,7427
+303,Brisbane - South,Society & Culture,13850
+304,Brisbane - West,Society & Culture,9324
+305,Brisbane Inner City,Society & Culture,15454
+306,Cairns,Society & Culture,6693
+307,Darling Downs - Maranoa,Society & Culture,2395
+308,Fitzroy,Society & Culture,4333
+309,Gold Coast,Society & Culture,17076
+310,Ipswich,Society & Culture,8658
+311,Logan - Beaudesert,Society & Culture,8286
+312,Mackay,Society & Culture,3159
+313,Moreton Bay - North,Society & Culture,6154
+314,Moreton Bay - South,Society & Culture,6000
+315,Queensland - Outback,Society & Culture,1656
+316,Sunshine Coast,Society & Culture,9864
+317,Toowoomba,Society & Culture,4059
+318,Townsville,Society & Culture,6225
+319,Wide Bay,Society & Culture,6598
+401,Adelaide - Central and Hills,Society & Culture,14454
+402,Adelaide - North,Society & Culture,12232
+403,Adelaide - South,Society & Culture,14284
+404,Adelaide - West,Society & Culture,8116
+405,Barossa - Yorke - Mid North,Society & Culture,2479
+406,South Australia - Outback,Society & Culture,1984
+407,South Australia - South East,Society & Culture,4128
+501,Bunbury,Society & Culture,3681
+502,Mandurah,Society & Culture,1833
+503,Perth - Inner,Society & Culture,10042
+504,Perth - North East,Society & Culture,7200
+505,Perth - North West,Society & Culture,16244
+506,Perth - South East,Society & Culture,14336
+507,Perth - South West,Society & Culture,12474
+508,Western Australia - Outback,Society & Culture,4308
+509,Western Australia - Wheat Belt,Society & Culture,2846
+601,Hobart,Society & Culture,9252
+602,Launceston and North East,Society & Culture,4008
+603,South East,Society & Culture,1110
+604,West and North West,Society & Culture,2944
+701,Darwin,Society & Culture,4818
+702,Northern Territory - Outback,Society & Culture,2312
+801,Australian Capital Territory,Society & Culture,30841
+101,Capital Region,Creative Arts,1833
+102,Central Coast,Creative Arts,2714
+103,Central West,Creative Arts,1177
+104,Coffs Harbour - Grafton,Creative Arts,1042
+105,Far West and Orana,Creative Arts,386
+106,Hunter Valley exc Newcastle,Creative Arts,1287
+107,Illawarra,Creative Arts,2780
+108,Mid North Coast,Creative Arts,1135
+109,Murray,Creative Arts,571
+110,New England and North West,Creative Arts,978
+111,Newcastle and Lake Macquarie,Creative Arts,3454
+112,Richmond - Tweed,Creative Arts,3089
+113,Riverina,Creative Arts,829
+114,Southern Highlands and Shoalhaven,Creative Arts,1203
+115,Sydney - Baulkham Hills and Hawkesbury,Creative Arts,2789
+116,Sydney - Blacktown,Creative Arts,2449
+117,Sydney - City and Inner South,Creative Arts,13577
+118,Sydney - Eastern Suburbs,Creative Arts,9534
+119,Sydney - Inner South West,Creative Arts,5639
+120,Sydney - Inner West,Creative Arts,7966
+121,Sydney - North Sydney and Hornsby,Creative Arts,9632
+122,Sydney - Northern Beaches,Creative Arts,5643
+123,Sydney - Outer South West,Creative Arts,1750
+124,Sydney - Outer West and Blue Mountains,Creative Arts,3272
+125,Sydney - Parramatta,Creative Arts,4066
+126,Sydney - Ryde,Creative Arts,3078
+127,Sydney - South West,Creative Arts,2427
+128,Sydney - Sutherland,Creative Arts,2804
+201,Ballarat,Creative Arts,1532
+202,Bendigo,Creative Arts,1540
+203,Geelong,Creative Arts,2781
+204,Hume,Creative Arts,1082
+205,Latrobe - Gippsland,Creative Arts,1740
+206,Melbourne - Inner,Creative Arts,23284
+207,Melbourne - Inner East,Creative Arts,6561
+208,Melbourne - Inner South,Creative Arts,7682
+209,Melbourne - North East,Creative Arts,6168
+210,Melbourne - North West,Creative Arts,2906
+211,Melbourne - Outer East,Creative Arts,6304
+212,Melbourne - South East,Creative Arts,6053
+213,Melbourne - West,Creative Arts,7137
+214,Mornington Peninsula,Creative Arts,2737
+215,North West,Creative Arts,689
+216,Shepparton,Creative Arts,461
+217,Warrnambool and South West,Creative Arts,745
+301,Brisbane - East,Creative Arts,2030
+302,Brisbane - North,Creative Arts,2470
+303,Brisbane - South,Creative Arts,5327
+304,Brisbane - West,Creative Arts,3084
+305,Brisbane Inner City,Creative Arts,7250
+306,Cairns,Creative Arts,1599
+307,Darling Downs - Maranoa,Creative Arts,395
+308,Fitzroy,Creative Arts,862
+309,Gold Coast,Creative Arts,6030
+310,Ipswich,Creative Arts,1825
+311,Logan - Beaudesert,Creative Arts,1882
+312,Mackay,Creative Arts,778
+313,Moreton Bay - North,Creative Arts,1223
+314,Moreton Bay - South,Creative Arts,1634
+315,Queensland - Outback,Creative Arts,268
+316,Sunshine Coast,Creative Arts,3344
+317,Toowoomba,Creative Arts,1040
+318,Townsville,Creative Arts,1327
+319,Wide Bay,Creative Arts,1023
+401,Adelaide - Central and Hills,Creative Arts,5071
+402,Adelaide - North,Creative Arts,2605
+403,Adelaide - South,Creative Arts,3729
+404,Adelaide - West,Creative Arts,2612
+405,Barossa - Yorke - Mid North,Creative Arts,406
+406,South Australia - Outback,Creative Arts,278
+407,South Australia - South East,Creative Arts,721
+501,Bunbury,Creative Arts,1059
+502,Mandurah,Creative Arts,371
+503,Perth - Inner,Creative Arts,3610
+504,Perth - North East,Creative Arts,2726
+505,Perth - North West,Creative Arts,5315
+506,Perth - South East,Creative Arts,4430
+507,Perth - South West,Creative Arts,3977
+508,Western Australia - Outback,Creative Arts,1165
+509,Western Australia - Wheat Belt,Creative Arts,693
+601,Hobart,Creative Arts,2462
+602,Launceston and North East,Creative Arts,1170
+603,South East,Creative Arts,384
+604,West and North West,Creative Arts,535
+701,Darwin,Creative Arts,1088
+702,Northern Territory - Outback,Creative Arts,530
+801,Australian Capital Territory,Creative Arts,6825
+101,Capital Region,"Food, Hospitality & Personal Services",3905
+102,Central Coast,"Food, Hospitality & Personal Services",6136
+103,Central West,"Food, Hospitality & Personal Services",3224
+104,Coffs Harbour - Grafton,"Food, Hospitality & Personal Services",2529
+105,Far West and Orana,"Food, Hospitality & Personal Services",1604
+106,Hunter Valley exc Newcastle,"Food, Hospitality & Personal Services",4752
+107,Illawarra,"Food, Hospitality & Personal Services",4673
+108,Mid North Coast,"Food, Hospitality & Personal Services",3762
+109,Murray,"Food, Hospitality & Personal Services",2131
+110,New England and North West,"Food, Hospitality & Personal Services",2688
+111,Newcastle and Lake Macquarie,"Food, Hospitality & Personal Services",5836
+112,Richmond - Tweed,"Food, Hospitality & Personal Services",4607
+113,Riverina,"Food, Hospitality & Personal Services",2502
+114,Southern Highlands and Shoalhaven,"Food, Hospitality & Personal Services",2533
+115,Sydney - Baulkham Hills and Hawkesbury,"Food, Hospitality & Personal Services",3254
+116,Sydney - Blacktown,"Food, Hospitality & Personal Services",4469
+117,Sydney - City and Inner South,"Food, Hospitality & Personal Services",5682
+118,Sydney - Eastern Suburbs,"Food, Hospitality & Personal Services",3844
+119,Sydney - Inner South West,"Food, Hospitality & Personal Services",8986
+120,Sydney - Inner West,"Food, Hospitality & Personal Services",4712
+121,Sydney - North Sydney and Hornsby,"Food, Hospitality & Personal Services",4476
+122,Sydney - Northern Beaches,"Food, Hospitality & Personal Services",4264
+123,Sydney - Outer South West,"Food, Hospitality & Personal Services",3720
+124,Sydney - Outer West and Blue Mountains,"Food, Hospitality & Personal Services",4940
+125,Sydney - Parramatta,"Food, Hospitality & Personal Services",6345
+126,Sydney - Ryde,"Food, Hospitality & Personal Services",2193
+127,Sydney - South West,"Food, Hospitality & Personal Services",5060
+128,Sydney - Sutherland,"Food, Hospitality & Personal Services",3783
+201,Ballarat,"Food, Hospitality & Personal Services",2675
+202,Bendigo,"Food, Hospitality & Personal Services",2587
+203,Geelong,"Food, Hospitality & Personal Services",5025
+204,Hume,"Food, Hospitality & Personal Services",3489
+205,Latrobe - Gippsland,"Food, Hospitality & Personal Services",4941
+206,Melbourne - Inner,"Food, Hospitality & Personal Services",9783
+207,Melbourne - Inner East,"Food, Hospitality & Personal Services",4754
+208,Melbourne - Inner South,"Food, Hospitality & Personal Services",6169
+209,Melbourne - North East,"Food, Hospitality & Personal Services",8437
+210,Melbourne - North West,"Food, Hospitality & Personal Services",5846
+211,Melbourne - Outer East,"Food, Hospitality & Personal Services",9060
+212,Melbourne - South East,"Food, Hospitality & Personal Services",12891
+213,Melbourne - West,"Food, Hospitality & Personal Services",12451
+214,Mornington Peninsula,"Food, Hospitality & Personal Services",5720
+215,North West,"Food, Hospitality & Personal Services",2729
+216,Shepparton,"Food, Hospitality & Personal Services",2451
+217,Warrnambool and South West,"Food, Hospitality & Personal Services",2484
+301,Brisbane - East,"Food, Hospitality & Personal Services",4150
+302,Brisbane - North,"Food, Hospitality & Personal Services",3690
+303,Brisbane - South,"Food, Hospitality & Personal Services",5553
+304,Brisbane - West,"Food, Hospitality & Personal Services",2265
+305,Brisbane Inner City,"Food, Hospitality & Personal Services",4272
+306,Cairns,"Food, Hospitality & Personal Services",5218
+307,Darling Downs - Maranoa,"Food, Hospitality & Personal Services",1865
+308,Fitzroy,"Food, Hospitality & Personal Services",3503
+309,Gold Coast,"Food, Hospitality & Personal Services",13755
+310,Ipswich,"Food, Hospitality & Personal Services",4705
+311,Logan - Beaudesert,"Food, Hospitality & Personal Services",4840
+312,Mackay,"Food, Hospitality & Personal Services",3482
+313,Moreton Bay - North,"Food, Hospitality & Personal Services",3823
+314,Moreton Bay - South,"Food, Hospitality & Personal Services",3240
+315,Queensland - Outback,"Food, Hospitality & Personal Services",1121
+316,Sunshine Coast,"Food, Hospitality & Personal Services",7395
+317,Toowoomba,"Food, Hospitality & Personal Services",2419
+318,Townsville,"Food, Hospitality & Personal Services",3972
+319,Wide Bay,"Food, Hospitality & Personal Services",4776
+401,Adelaide - Central and Hills,"Food, Hospitality & Personal Services",4486
+402,Adelaide - North,"Food, Hospitality & Personal Services",6619
+403,Adelaide - South,"Food, Hospitality & Personal Services",6235
+404,Adelaide - West,"Food, Hospitality & Personal Services",4258
+405,Barossa - Yorke - Mid North,"Food, Hospitality & Personal Services",1712
+406,South Australia - Outback,"Food, Hospitality & Personal Services",1247
+407,South Australia - South East,"Food, Hospitality & Personal Services",3090
+501,Bunbury,"Food, Hospitality & Personal Services",3225
+502,Mandurah,"Food, Hospitality & Personal Services",1694
+503,Perth - Inner,"Food, Hospitality & Personal Services",2215
+504,Perth - North East,"Food, Hospitality & Personal Services",4365
+505,Perth - North West,"Food, Hospitality & Personal Services",10102
+506,Perth - South East,"Food, Hospitality & Personal Services",8231
+507,Perth - South West,"Food, Hospitality & Personal Services",6711
+508,Western Australia - Outback,"Food, Hospitality & Personal Services",3823
+509,Western Australia - Wheat Belt,"Food, Hospitality & Personal Services",1953
+601,Hobart,"Food, Hospitality & Personal Services",4055
+602,Launceston and North East,"Food, Hospitality & Personal Services",2692
+603,South East,"Food, Hospitality & Personal Services",728
+604,West and North West,"Food, Hospitality & Personal Services",2048
+701,Darwin,"Food, Hospitality & Personal Services",2396
+702,Northern Territory - Outback,"Food, Hospitality & Personal Services",1106
+801,Australian Capital Territory,"Food, Hospitality & Personal Services",5343
+101,Capital Region,Mixed Field Programmes,18
+102,Central Coast,Mixed Field Programmes,26
+103,Central West,Mixed Field Programmes,18
+104,Coffs Harbour - Grafton,Mixed Field Programmes,11
+105,Far West and Orana,Mixed Field Programmes,8
+106,Hunter Valley exc Newcastle,Mixed Field Programmes,24
+107,Illawarra,Mixed Field Programmes,25
+108,Mid North Coast,Mixed Field Programmes,16
+109,Murray,Mixed Field Programmes,6
+110,New England and North West,Mixed Field Programmes,15
+111,Newcastle and Lake Macquarie,Mixed Field Programmes,26
+112,Richmond - Tweed,Mixed Field Programmes,28
+113,Riverina,Mixed Field Programmes,19
+114,Southern Highlands and Shoalhaven,Mixed Field Programmes,17
+115,Sydney - Baulkham Hills and Hawkesbury,Mixed Field Programmes,17
+116,Sydney - Blacktown,Mixed Field Programmes,27
+117,Sydney - City and Inner South,Mixed Field Programmes,28
+118,Sydney - Eastern Suburbs,Mixed Field Programmes,15
+119,Sydney - Inner South West,Mixed Field Programmes,36
+120,Sydney - Inner West,Mixed Field Programmes,23
+121,Sydney - North Sydney and Hornsby,Mixed Field Programmes,22
+122,Sydney - Northern Beaches,Mixed Field Programmes,11
+123,Sydney - Outer South West,Mixed Field Programmes,21
+124,Sydney - Outer West and Blue Mountains,Mixed Field Programmes,33
+125,Sydney - Parramatta,Mixed Field Programmes,33
+126,Sydney - Ryde,Mixed Field Programmes,7
+127,Sydney - South West,Mixed Field Programmes,16
+128,Sydney - Sutherland,Mixed Field Programmes,22
+201,Ballarat,Mixed Field Programmes,10
+202,Bendigo,Mixed Field Programmes,9
+203,Geelong,Mixed Field Programmes,15
+204,Hume,Mixed Field Programmes,5
+205,Latrobe - Gippsland,Mixed Field Programmes,20
+206,Melbourne - Inner,Mixed Field Programmes,29
+207,Melbourne - Inner East,Mixed Field Programmes,14
+208,Melbourne - Inner South,Mixed Field Programmes,10
+209,Melbourne - North East,Mixed Field Programmes,20
+210,Melbourne - North West,Mixed Field Programmes,18
+211,Melbourne - Outer East,Mixed Field Programmes,16
+212,Melbourne - South East,Mixed Field Programmes,31
+213,Melbourne - West,Mixed Field Programmes,35
+214,Mornington Peninsula,Mixed Field Programmes,17
+215,North West,Mixed Field Programmes,11
+216,Shepparton,Mixed Field Programmes,11
+217,Warrnambool and South West,Mixed Field Programmes,5
+301,Brisbane - East,Mixed Field Programmes,22
+302,Brisbane - North,Mixed Field Programmes,23
+303,Brisbane - South,Mixed Field Programmes,41
+304,Brisbane - West,Mixed Field Programmes,28
+305,Brisbane Inner City,Mixed Field Programmes,27
+306,Cairns,Mixed Field Programmes,19
+307,Darling Downs - Maranoa,Mixed Field Programmes,4
+308,Fitzroy,Mixed Field Programmes,19
+309,Gold Coast,Mixed Field Programmes,62
+310,Ipswich,Mixed Field Programmes,41
+311,Logan - Beaudesert,Mixed Field Programmes,40
+312,Mackay,Mixed Field Programmes,5
+313,Moreton Bay - North,Mixed Field Programmes,23
+314,Moreton Bay - South,Mixed Field Programmes,17
+315,Queensland - Outback,Mixed Field Programmes,3
+316,Sunshine Coast,Mixed Field Programmes,20
+317,Toowoomba,Mixed Field Programmes,27
+318,Townsville,Mixed Field Programmes,13
+319,Wide Bay,Mixed Field Programmes,19
+401,Adelaide - Central and Hills,Mixed Field Programmes,21
+402,Adelaide - North,Mixed Field Programmes,51
+403,Adelaide - South,Mixed Field Programmes,48
+404,Adelaide - West,Mixed Field Programmes,21
+405,Barossa - Yorke - Mid North,Mixed Field Programmes,5
+406,South Australia - Outback,Mixed Field Programmes,6
+407,South Australia - South East,Mixed Field Programmes,16
+501,Bunbury,Mixed Field Programmes,7
+502,Mandurah,Mixed Field Programmes,4
+503,Perth - Inner,Mixed Field Programmes,11
+504,Perth - North East,Mixed Field Programmes,12
+505,Perth - North West,Mixed Field Programmes,39
+506,Perth - South East,Mixed Field Programmes,43
+507,Perth - South West,Mixed Field Programmes,26
+508,Western Australia - Outback,Mixed Field Programmes,14
+509,Western Australia - Wheat Belt,Mixed Field Programmes,11
+601,Hobart,Mixed Field Programmes,5
+602,Launceston and North East,Mixed Field Programmes,5
+603,South East,Mixed Field Programmes,0
+604,West and North West,Mixed Field Programmes,9
+701,Darwin,Mixed Field Programmes,12
+702,Northern Territory - Outback,Mixed Field Programmes,15
+801,Australian Capital Territory,Mixed Field Programmes,26
+101,Capital Region,Field of study inadequately described,819
+102,Central Coast,Field of study inadequately described,739
+103,Central West,Field of study inadequately described,436
+104,Coffs Harbour - Grafton,Field of study inadequately described,367
+105,Far West and Orana,Field of study inadequately described,205
+106,Hunter Valley exc Newcastle,Field of study inadequately described,633
+107,Illawarra,Field of study inadequately described,820
+108,Mid North Coast,Field of study inadequately described,435
+109,Murray,Field of study inadequately described,279
+110,New England and North West,Field of study inadequately described,432
+111,Newcastle and Lake Macquarie,Field of study inadequately described,962
+112,Richmond - Tweed,Field of study inadequately described,694
+113,Riverina,Field of study inadequately described,431
+114,Southern Highlands and Shoalhaven,Field of study inadequately described,423
+115,Sydney - Baulkham Hills and Hawkesbury,Field of study inadequately described,881
+116,Sydney - Blacktown,Field of study inadequately described,1423
+117,Sydney - City and Inner South,Field of study inadequately described,2279
+118,Sydney - Eastern Suburbs,Field of study inadequately described,1850
+119,Sydney - Inner South West,Field of study inadequately described,2126
+120,Sydney - Inner West,Field of study inadequately described,1672
+121,Sydney - North Sydney and Hornsby,Field of study inadequately described,2442
+122,Sydney - Northern Beaches,Field of study inadequately described,1139
+123,Sydney - Outer South West,Field of study inadequately described,812
+124,Sydney - Outer West and Blue Mountains,Field of study inadequately described,1023
+125,Sydney - Parramatta,Field of study inadequately described,1826
+126,Sydney - Ryde,Field of study inadequately described,877
+127,Sydney - South West,Field of study inadequately described,1049
+128,Sydney - Sutherland,Field of study inadequately described,770
+201,Ballarat,Field of study inadequately described,584
+202,Bendigo,Field of study inadequately described,616
+203,Geelong,Field of study inadequately described,1052
+204,Hume,Field of study inadequately described,562
+205,Latrobe - Gippsland,Field of study inadequately described,927
+206,Melbourne - Inner,Field of study inadequately described,5349
+207,Melbourne - Inner East,Field of study inadequately described,2534
+208,Melbourne - Inner South,Field of study inadequately described,2736
+209,Melbourne - North East,Field of study inadequately described,2458
+210,Melbourne - North West,Field of study inadequately described,1432
+211,Melbourne - Outer East,Field of study inadequately described,2360
+212,Melbourne - South East,Field of study inadequately described,3270
+213,Melbourne - West,Field of study inadequately described,3349
+214,Mornington Peninsula,Field of study inadequately described,1088
+215,North West,Field of study inadequately described,368
+216,Shepparton,Field of study inadequately described,343
+217,Warrnambool and South West,Field of study inadequately described,399
+301,Brisbane - East,Field of study inadequately described,748
+302,Brisbane - North,Field of study inadequately described,859
+303,Brisbane - South,Field of study inadequately described,1471
+304,Brisbane - West,Field of study inadequately described,944
+305,Brisbane Inner City,Field of study inadequately described,1463
+306,Cairns,Field of study inadequately described,756
+307,Darling Downs - Maranoa,Field of study inadequately described,307
+308,Fitzroy,Field of study inadequately described,660
+309,Gold Coast,Field of study inadequately described,1669
+310,Ipswich,Field of study inadequately described,902
+311,Logan - Beaudesert,Field of study inadequately described,877
+312,Mackay,Field of study inadequately described,501
+313,Moreton Bay - North,Field of study inadequately described,624
+314,Moreton Bay - South,Field of study inadequately described,637
+315,Queensland - Outback,Field of study inadequately described,223
+316,Sunshine Coast,Field of study inadequately described,1041
+317,Toowoomba,Field of study inadequately described,493
+318,Townsville,Field of study inadequately described,752
+319,Wide Bay,Field of study inadequately described,620
+401,Adelaide - Central and Hills,Field of study inadequately described,1417
+402,Adelaide - North,Field of study inadequately described,1298
+403,Adelaide - South,Field of study inadequately described,1258
+404,Adelaide - West,Field of study inadequately described,975
+405,Barossa - Yorke - Mid North,Field of study inadequately described,217
+406,South Australia - Outback,Field of study inadequately described,200
+407,South Australia - South East,Field of study inadequately described,400
+501,Bunbury,Field of study inadequately described,407
+502,Mandurah,Field of study inadequately described,209
+503,Perth - Inner,Field of study inadequately described,788
+504,Perth - North East,Field of study inadequately described,817
+505,Perth - North West,Field of study inadequately described,1536
+506,Perth - South East,Field of study inadequately described,1458
+507,Perth - South West,Field of study inadequately described,1219
+508,Western Australia - Outback,Field of study inadequately described,630
+509,Western Australia - Wheat Belt,Field of study inadequately described,260
+601,Hobart,Field of study inadequately described,907
+602,Launceston and North East,Field of study inadequately described,409
+603,South East,Field of study inadequately described,141
+604,West and North West,Field of study inadequately described,254
+701,Darwin,Field of study inadequately described,647
+702,Northern Territory - Outback,Field of study inadequately described,305
+801,Australian Capital Territory,Field of study inadequately described,2603
+101,Capital Region,Field of study not stated,816
+102,Central Coast,Field of study not stated,1231
+103,Central West,Field of study not stated,764
+104,Coffs Harbour - Grafton,Field of study not stated,492
+105,Far West and Orana,Field of study not stated,484
+106,Hunter Valley exc Newcastle,Field of study not stated,1017
+107,Illawarra,Field of study not stated,1226
+108,Mid North Coast,Field of study not stated,755
+109,Murray,Field of study not stated,397
+110,New England and North West,Field of study not stated,655
+111,Newcastle and Lake Macquarie,Field of study not stated,1363
+112,Richmond - Tweed,Field of study not stated,864
+113,Riverina,Field of study not stated,597
+114,Southern Highlands and Shoalhaven,Field of study not stated,550
+115,Sydney - Baulkham Hills and Hawkesbury,Field of study not stated,849
+116,Sydney - Blacktown,Field of study not stated,1497
+117,Sydney - City and Inner South,Field of study not stated,1251
+118,Sydney - Eastern Suburbs,Field of study not stated,1001
+119,Sydney - Inner South West,Field of study not stated,2824
+120,Sydney - Inner West,Field of study not stated,1221
+121,Sydney - North Sydney and Hornsby,Field of study not stated,1204
+122,Sydney - Northern Beaches,Field of study not stated,920
+123,Sydney - Outer South West,Field of study not stated,1180
+124,Sydney - Outer West and Blue Mountains,Field of study not stated,1213
+125,Sydney - Parramatta,Field of study not stated,2059
+126,Sydney - Ryde,Field of study not stated,626
+127,Sydney - South West,Field of study not stated,2070
+128,Sydney - Sutherland,Field of study not stated,892
+201,Ballarat,Field of study not stated,516
+202,Bendigo,Field of study not stated,557
+203,Geelong,Field of study not stated,984
+204,Hume,Field of study not stated,661
+205,Latrobe - Gippsland,Field of study not stated,1103
+206,Melbourne - Inner,Field of study not stated,2167
+207,Melbourne - Inner East,Field of study not stated,1326
+208,Melbourne - Inner South,Field of study not stated,1625
+209,Melbourne - North East,Field of study not stated,2162
+210,Melbourne - North West,Field of study not stated,1606
+211,Melbourne - Outer East,Field of study not stated,2150
+212,Melbourne - South East,Field of study not stated,3510
+213,Melbourne - West,Field of study not stated,3372
+214,Mornington Peninsula,Field of study not stated,1231
+215,North West,Field of study not stated,572
+216,Shepparton,Field of study not stated,500
+217,Warrnambool and South West,Field of study not stated,460
+301,Brisbane - East,Field of study not stated,909
+302,Brisbane - North,Field of study not stated,731
+303,Brisbane - South,Field of study not stated,1427
+304,Brisbane - West,Field of study not stated,526
+305,Brisbane Inner City,Field of study not stated,823
+306,Cairns,Field of study not stated,1097
+307,Darling Downs - Maranoa,Field of study not stated,422
+308,Fitzroy,Field of study not stated,898
+309,Gold Coast,Field of study not stated,2230
+310,Ipswich,Field of study not stated,1195
+311,Logan - Beaudesert,Field of study not stated,1431
+312,Mackay,Field of study not stated,770
+313,Moreton Bay - North,Field of study not stated,872
+314,Moreton Bay - South,Field of study not stated,673
+315,Queensland - Outback,Field of study not stated,364
+316,Sunshine Coast,Field of study not stated,1179
+317,Toowoomba,Field of study not stated,524
+318,Townsville,Field of study not stated,921
+319,Wide Bay,Field of study not stated,986
+401,Adelaide - Central and Hills,Field of study not stated,1036
+402,Adelaide - North,Field of study not stated,1577
+403,Adelaide - South,Field of study not stated,1252
+404,Adelaide - West,Field of study not stated,943
+405,Barossa - Yorke - Mid North,Field of study not stated,301
+406,South Australia - Outback,Field of study not stated,354
+407,South Australia - South East,Field of study not stated,547
+501,Bunbury,Field of study not stated,1375
+502,Mandurah,Field of study not stated,298
+503,Perth - Inner,Field of study not stated,450
+504,Perth - North East,Field of study not stated,943
+505,Perth - North West,Field of study not stated,2544
+506,Perth - South East,Field of study not stated,2891
+507,Perth - South West,Field of study not stated,1377
+508,Western Australia - Outback,Field of study not stated,988
+509,Western Australia - Wheat Belt,Field of study not stated,405
+601,Hobart,Field of study not stated,775
+602,Launceston and North East,Field of study not stated,530
+603,South East,Field of study not stated,155
+604,West and North West,Field of study not stated,411
+701,Darwin,Field of study not stated,588
+702,Northern Territory - Outback,Field of study not stated,446
+801,Australian Capital Territory,Field of study not stated,1213

@@ -9,11 +9,6 @@ import path from 'path';
 
 export default function(app) {
   // Insert routes below
-  app.use('/api/vacanciesByIndustrys', require('./api/vacanciesByIndustry'));
-  app.use('/api/singlesByAges', require('./api/singlesByAge'));
-  app.use('/api/helpPerSa4s', require('./api/helpPerSa4'));
-  app.use('/api/employmentByIndustrys', require('./api/employmentByIndustry'));
-  app.use('/api/averageIncomeByAges', require('./api/averageIncomeByAge'));
   app.use('/api/incomeByAgeATOs', require('./api/incomeByAgeATO'));
   app.use('/api/things', require('./api/thing'));
   app.use('/api/users', require('./api/user'));

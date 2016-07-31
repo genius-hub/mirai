@@ -1,0 +1,145 @@
+Division,Industry,Year,Average Vacancies
+B,Mining,2009,4100
+B,Mining,2010,6550
+B,Mining,2011,9450
+B,Mining,2012,8950
+B,Mining,2013,5350
+B,Mining,2014,4375
+B,Mining,2015,3350
+B,Mining,2016,2800
+C,Manufacturing,2009,9800
+C,Manufacturing,2010,12550
+C,Manufacturing,2011,11050
+C,Manufacturing,2012,11425
+C,Manufacturing,2013,8750
+C,Manufacturing,2014,9800
+C,Manufacturing,2015,9025
+C,Manufacturing,2016,9900
+D,"Electricity, Gas, Water and Waste Services",2009,600
+D,"Electricity, Gas, Water and Waste Services",2010,775
+D,"Electricity, Gas, Water and Waste Services",2011,1100
+D,"Electricity, Gas, Water and Waste Services",2012,1100
+D,"Electricity, Gas, Water and Waste Services",2013,600
+D,"Electricity, Gas, Water and Waste Services",2014,725
+D,"Electricity, Gas, Water and Waste Services",2015,850
+D,"Electricity, Gas, Water and Waste Services",2016,1000
+E,Construction,2009,11800
+E,Construction,2010,13000
+E,Construction,2011,19275
+E,Construction,2012,17475
+E,Construction,2013,12975
+E,Construction,2014,12725
+E,Construction,2015,11300
+E,Construction,2016,10650
+F,Wholesale Trade,2009,9000
+F,Wholesale Trade,2010,11300
+F,Wholesale Trade,2011,12325
+F,Wholesale Trade,2012,11625
+F,Wholesale Trade,2013,6300
+F,Wholesale Trade,2014,6525
+F,Wholesale Trade,2015,8250
+F,Wholesale Trade,2016,8600
+G,Retail Trade,2009,13400
+G,Retail Trade,2010,15975
+G,Retail Trade,2011,12550
+G,Retail Trade,2012,16225
+G,Retail Trade,2013,15600
+G,Retail Trade,2014,14500
+G,Retail Trade,2015,17300
+G,Retail Trade,2016,20300
+H,Accommodation and Food Services,2009,18100
+H,Accommodation and Food Services,2010,13025
+H,Accommodation and Food Services,2011,14075
+H,Accommodation and Food Services,2012,12850
+H,Accommodation and Food Services,2013,12325
+H,Accommodation and Food Services,2014,12325
+H,Accommodation and Food Services,2015,15025
+H,Accommodation and Food Services,2016,16150
+I,"Transport, Postal and Warehousing",2009,5900
+I,"Transport, Postal and Warehousing",2010,7550
+I,"Transport, Postal and Warehousing",2011,7800
+I,"Transport, Postal and Warehousing",2012,6650
+I,"Transport, Postal and Warehousing",2013,4900
+I,"Transport, Postal and Warehousing",2014,4675
+I,"Transport, Postal and Warehousing",2015,4325
+I,"Transport, Postal and Warehousing",2016,4100
+J,Information Media and Telecommunications,2009,2200
+J,Information Media and Telecommunications,2010,1900
+J,Information Media and Telecommunications,2011,2475
+J,Information Media and Telecommunications,2012,1925
+J,Information Media and Telecommunications,2013,2225
+J,Information Media and Telecommunications,2014,2525
+J,Information Media and Telecommunications,2015,2075
+J,Information Media and Telecommunications,2016,1950
+K,Financial and Insurance Services,2009,10200
+K,Financial and Insurance Services,2010,10025
+K,Financial and Insurance Services,2011,8900
+K,Financial and Insurance Services,2012,8275
+K,Financial and Insurance Services,2013,7300
+K,Financial and Insurance Services,2014,8975
+K,Financial and Insurance Services,2015,9150
+K,Financial and Insurance Services,2016,8850
+L,"Rental, Hiring and Real Estate Services",2009,3600
+L,"Rental, Hiring and Real Estate Services",2010,4050
+L,"Rental, Hiring and Real Estate Services",2011,3200
+L,"Rental, Hiring and Real Estate Services",2012,2800
+L,"Rental, Hiring and Real Estate Services",2013,2800
+L,"Rental, Hiring and Real Estate Services",2014,2550
+L,"Rental, Hiring and Real Estate Services",2015,3425
+L,"Rental, Hiring and Real Estate Services",2016,4050
+M,"Professional, Scientific and Technical Services",2009,14800
+M,"Professional, Scientific and Technical Services",2010,16925
+M,"Professional, Scientific and Technical Services",2011,23400
+M,"Professional, Scientific and Technical Services",2012,20275
+M,"Professional, Scientific and Technical Services",2013,16400
+M,"Professional, Scientific and Technical Services",2014,18525
+M,"Professional, Scientific and Technical Services",2015,19450
+M,"Professional, Scientific and Technical Services",2016,18100
+N,Administrative and Support Services,2009,14600
+N,Administrative and Support Services,2010,25725
+N,Administrative and Support Services,2011,23650
+N,Administrative and Support Services,2012,22950
+N,Administrative and Support Services,2013,15950
+N,Administrative and Support Services,2014,17100
+N,Administrative and Support Services,2015,21250
+N,Administrative and Support Services,2016,22000
+O,Public Administration and Safety,2009,9100
+O,Public Administration and Safety,2010,9000
+O,Public Administration and Safety,2011,9425
+O,Public Administration and Safety,2012,7225
+O,Public Administration and Safety,2013,5550
+O,Public Administration and Safety,2014,5500
+O,Public Administration and Safety,2015,7200
+O,Public Administration and Safety,2016,8600
+P,Education and Training,2009,3400
+P,Education and Training,2010,3775
+P,Education and Training,2011,4175
+P,Education and Training,2012,3550
+P,Education and Training,2013,4225
+P,Education and Training,2014,2875
+P,Education and Training,2015,4050
+P,Education and Training,2016,6200
+Q,Health Care and Social Assistance,2009,12900
+Q,Health Care and Social Assistance,2010,15750
+Q,Health Care and Social Assistance,2011,15375
+Q,Health Care and Social Assistance,2012,13850
+Q,Health Care and Social Assistance,2013,13500
+Q,Health Care and Social Assistance,2014,13725
+Q,Health Care and Social Assistance,2015,15450
+Q,Health Care and Social Assistance,2016,17000
+R,Arts and Recreation Services,2009,1300
+R,Arts and Recreation Services,2010,2500
+R,Arts and Recreation Services,2011,1625
+R,Arts and Recreation Services,2012,1500
+R,Arts and Recreation Services,2013,1700
+R,Arts and Recreation Services,2014,2825
+R,Arts and Recreation Services,2015,3275
+R,Arts and Recreation Services,2016,2750
+S,Other Services,2009,6100
+S,Other Services,2010,6875
+S,Other Services,2011,5000
+S,Other Services,2012,6375
+S,Other Services,2013,6650
+S,Other Services,2014,6475
+S,Other Services,2015,4900
+S,Other Services,2016,6050

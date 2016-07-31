@@ -1,0 +1,153 @@
+State/Territory,Region Name,Industry,Industry Division,Employment by Industry - Total,Full-Time,Part-Time,Male,Female,Employment Distribution (%)
+NSW,New South Wales,"Agriculture, Forestry and Fishing",A,88100,66200,21900,60200,27900,2.3
+NSW,New South Wales,Mining,B,38300,37600,600,33800,4400,1.0
+NSW,New South Wales,Manufacturing,C,263300,222000,41300,188800,74500,7.0
+NSW,New South Wales,"Electricity, Gas, Water and Waste Services",D,43900,39600,4300,34800,9100,1.2
+NSW,New South Wales,Construction,E,315100,266100,49000,281000,34100,8.3
+NSW,New South Wales,Wholesale Trade,F,131600,108300,23200,87500,44100,3.5
+NSW,New South Wales,Retail Trade,G,394500,202000,192500,176300,218200,10.4
+NSW,New South Wales,Accommodation and Food Services,H,267100,109800,157400,123000,144100,7.1
+NSW,New South Wales,"Transport, Postal and Warehousing",I,200800,157000,43800,156400,44400,5.3
+NSW,New South Wales,Information Media and Telecommunications,J,81500,67200,14300,50400,31100,2.2
+NSW,New South Wales,Financial and Insurance Services,K,186000,158000,28000,89900,96100,4.9
+NSW,New South Wales,"Rental, Hiring and Real Estate Services",L,69900,54500,15500,35500,34500,1.8
+NSW,New South Wales,"Professional, Scientific and Technical Services",M,360700,285600,75000,207300,153400,9.5
+NSW,New South Wales,Administrative and Support Services,N,138000,86200,51800,69700,68300,3.6
+NSW,New South Wales,Public Administration and Safety,O,204000,166900,37100,109100,94900,5.4
+NSW,New South Wales,Education and Training,P,296700,184300,112400,91700,205100,7.8
+NSW,New South Wales,Health Care and Social Assistance,Q,489700,293900,195800,105800,383900,12.9
+NSW,New South Wales,Arts and Recreation Services,R,70100,41900,28100,38100,32000,1.9
+NSW,New South Wales,Other Services,S,146200,99500,46700,84600,61600,3.9
+VIC,Victoria,"Agriculture, Forestry and Fishing",A,95700,66200,29600,65100,30600,3.2
+VIC,Victoria,Mining,B,8900,8900,0,7200,1700,0.3
+VIC,Victoria,Manufacturing,C,266800,222500,44300,192500,74300,8.9
+VIC,Victoria,"Electricity, Gas, Water and Waste Services",D,36000,33300,2700,27200,8900,1.2
+VIC,Victoria,Construction,E,268200,223500,44600,237400,30700,9.0
+VIC,Victoria,Wholesale Trade,F,101200,83700,17500,67400,33900,3.4
+VIC,Victoria,Retail Trade,G,334600,169700,164900,152500,182100,11.2
+VIC,Victoria,Accommodation and Food Services,H,200000,79300,120600,97200,102800,6.7
+VIC,Victoria,"Transport, Postal and Warehousing",I,158400,127800,30600,122500,35900,5.3
+VIC,Victoria,Information Media and Telecommunications,J,59400,46300,13100,36000,23400,2.0
+VIC,Victoria,Financial and Insurance Services,K,115100,95000,20100,60500,54600,3.8
+VIC,Victoria,"Rental, Hiring and Real Estate Services",L,47400,33500,13800,25300,22100,1.6
+VIC,Victoria,"Professional, Scientific and Technical Services",M,257100,196800,60300,154700,102400,8.6
+VIC,Victoria,Administrative and Support Services,N,110300,61500,48800,56700,53700,3.7
+VIC,Victoria,Public Administration and Safety,O,145400,112100,33300,72500,72800,4.9
+VIC,Victoria,Education and Training,P,236200,140100,96100,70200,166000,7.9
+VIC,Victoria,Health Care and Social Assistance,Q,380500,199500,181000,82600,297900,12.7
+VIC,Victoria,Arts and Recreation Services,R,63500,31400,32100,35000,28500,2.1
+VIC,Victoria,Other Services,S,107500,73000,34400,58300,49200,3.6
+QLD,Queensland,"Agriculture, Forestry and Fishing",A,59400,44500,14900,39600,19800,2.5
+QLD,Queensland,Mining,B,59600,58000,1500,51800,7800,2.5
+QLD,Queensland,Manufacturing,C,168800,148000,20800,129500,39300,7.1
+QLD,Queensland,"Electricity, Gas, Water and Waste Services",D,31100,28500,2600,23200,7900,1.3
+QLD,Queensland,Construction,E,208400,183500,25000,185500,22900,8.8
+QLD,Queensland,Wholesale Trade,F,68400,57300,11100,48600,19900,2.9
+QLD,Queensland,Retail Trade,G,255000,133100,121800,111700,143300,10.8
+QLD,Queensland,Accommodation and Food Services,H,166700,63800,102900,72900,93700,7.1
+QLD,Queensland,"Transport, Postal and Warehousing",I,133000,106200,26800,102100,30900,5.6
+QLD,Queensland,Information Media and Telecommunications,J,32700,26500,6300,18600,14200,1.4
+QLD,Queensland,Financial and Insurance Services,K,66600,53600,13000,28000,38500,2.8
+QLD,Queensland,"Rental, Hiring and Real Estate Services",L,48500,38300,10300,21100,27400,2.1
+QLD,Queensland,"Professional, Scientific and Technical Services",M,176300,135800,40600,101100,75200,7.5
+QLD,Queensland,Administrative and Support Services,N,85300,51600,33700,41200,44100,3.6
+QLD,Queensland,Public Administration and Safety,O,149800,122800,27100,78800,71000,6.3
+QLD,Queensland,Education and Training,P,196600,114800,81800,53300,143400,8.3
+QLD,Queensland,Health Care and Social Assistance,Q,312500,183000,129600,66000,246600,13.2
+QLD,Queensland,Arts and Recreation Services,R,41400,24800,16600,21800,19600,1.8
+QLD,Queensland,Other Services,S,104300,73600,30700,59000,45300,4.4
+SA,South Australia,"Agriculture, Forestry and Fishing",A,35800,26900,9000,26000,9800,4.4
+SA,South Australia,Mining,B,8400,7900,500,7200,1200,1.0
+SA,South Australia,Manufacturing,C,71600,59600,12000,52000,19600,8.9
+SA,South Australia,"Electricity, Gas, Water and Waste Services",D,10500,9800,700,8600,1900,1.3
+SA,South Australia,Construction,E,60000,49900,10000,53200,6700,7.4
+SA,South Australia,Wholesale Trade,F,21900,17700,4300,16500,5400,2.7
+SA,South Australia,Retail Trade,G,92300,43400,48900,42100,50200,11.4
+SA,South Australia,Accommodation and Food Services,H,56500,21900,34500,24600,31800,7.0
+SA,South Australia,"Transport, Postal and Warehousing",I,36600,28400,8200,30600,5900,4.5
+SA,South Australia,Information Media and Telecommunications,J,10600,8000,2600,6400,4200,1.3
+SA,South Australia,Financial and Insurance Services,K,21900,15700,6200,9100,12800,2.7
+SA,South Australia,"Rental, Hiring and Real Estate Services",L,11900,8400,3400,6100,5800,1.5
+SA,South Australia,"Professional, Scientific and Technical Services",M,55500,40500,15000,30900,24600,6.9
+SA,South Australia,Administrative and Support Services,N,29000,14400,14600,14200,14700,3.6
+SA,South Australia,Public Administration and Safety,O,57600,45700,11900,29100,28500,7.1
+SA,South Australia,Education and Training,P,62200,37900,24300,19000,43200,7.7
+SA,South Australia,Health Care and Social Assistance,Q,119400,62700,56800,26200,93200,14.8
+SA,South Australia,Arts and Recreation Services,R,12300,5600,6600,7100,5100,1.5
+SA,South Australia,Other Services,S,33400,22000,11400,17100,16300,4.1
+WA,Western Australia,"Agriculture, Forestry and Fishing",A,27400,20600,6800,20200,7200,2.0
+WA,Western Australia,Mining,B,104000,101300,2700,86300,17700,7.7
+WA,Western Australia,Manufacturing,C,80600,65900,14700,57900,22700,6.0
+WA,Western Australia,"Electricity, Gas, Water and Waste Services",D,14800,13300,1500,11400,3400,1.1
+WA,Western Australia,Construction,E,149100,126900,22300,127300,21900,11.0
+WA,Western Australia,Wholesale Trade,F,38100,31700,6400,27200,10900,2.8
+WA,Western Australia,Retail Trade,G,137500,64100,73500,58700,78800,10.2
+WA,Western Australia,Accommodation and Food Services,H,91800,36500,55300,40900,50900,6.8
+WA,Western Australia,"Transport, Postal and Warehousing",I,71700,56800,14900,52800,18900,5.3
+WA,Western Australia,Information Media and Telecommunications,J,16100,11600,4600,8800,7400,1.2
+WA,Western Australia,Financial and Insurance Services,K,29700,21800,7900,11100,18600,2.2
+WA,Western Australia,"Rental, Hiring and Real Estate Services",L,24700,17900,6800,12600,12100,1.8
+WA,Western Australia,"Professional, Scientific and Technical Services",M,100400,76200,24200,62800,37600,7.4
+WA,Western Australia,Administrative and Support Services,N,43400,25100,18200,20800,22500,3.2
+WA,Western Australia,Public Administration and Safety,O,79000,60000,19000,37600,41400,5.9
+WA,Western Australia,Education and Training,P,97100,56900,40200,27500,69600,7.2
+WA,Western Australia,Health Care and Social Assistance,Q,157500,87300,70100,33300,124200,11.7
+WA,Western Australia,Arts and Recreation Services,R,27000,14500,12500,14900,12100,2.0
+WA,Western Australia,Other Services,S,59700,42300,17400,35700,24000,4.4
+TAS,Tasmania,"Agriculture, Forestry and Fishing",A,13400,9800,3500,10100,3300,5.6
+TAS,Tasmania,Mining,B,2600,2600,0,2200,400,1.1
+TAS,Tasmania,Manufacturing,C,18300,15100,3200,14200,4100,7.6
+TAS,Tasmania,"Electricity, Gas, Water and Waste Services",D,3500,3200,300,2800,700,1.5
+TAS,Tasmania,Construction,E,20100,17200,2800,18400,1700,8.4
+TAS,Tasmania,Wholesale Trade,F,5300,4400,900,4300,1000,2.2
+TAS,Tasmania,Retail Trade,G,26600,13000,13600,12000,14600,11.1
+TAS,Tasmania,Accommodation and Food Services,H,20700,7700,13000,7600,13100,8.6
+TAS,Tasmania,"Transport, Postal and Warehousing",I,11200,9100,2100,9500,1600,4.7
+TAS,Tasmania,Information Media and Telecommunications,J,3500,2700,800,2200,1300,1.5
+TAS,Tasmania,Financial and Insurance Services,K,5300,4300,1100,2300,3000,2.2
+TAS,Tasmania,"Rental, Hiring and Real Estate Services",L,4000,2500,1400,1700,2200,1.7
+TAS,Tasmania,"Professional, Scientific and Technical Services",M,12400,9000,3400,7000,5300,5.2
+TAS,Tasmania,Administrative and Support Services,N,5600,3100,2500,2200,3400,2.3
+TAS,Tasmania,Public Administration and Safety,O,18900,14300,4600,9900,8900,7.9
+TAS,Tasmania,Education and Training,P,19400,11500,8000,5900,13500,8.1
+TAS,Tasmania,Health Care and Social Assistance,Q,35400,18300,17100,8000,27400,14.8
+TAS,Tasmania,Arts and Recreation Services,R,4700,2600,2100,2900,1800,2.0
+TAS,Tasmania,Other Services,S,8700,5700,3000,4300,4400,3.6
+NT,Northern Territory,"Agriculture, Forestry and Fishing",A,900,700,200,700,200,0.7
+NT,Northern Territory,Mining,B,6200,6100,100,5400,800,4.7
+NT,Northern Territory,Manufacturing,C,3600,3000,600,2900,800,2.7
+NT,Northern Territory,"Electricity, Gas, Water and Waste Services",D,2300,2300,100,1800,600,1.7
+NT,Northern Territory,Construction,E,15500,14100,1400,13600,1900,11.7
+NT,Northern Territory,Wholesale Trade,F,3000,2500,500,2100,900,2.3
+NT,Northern Territory,Retail Trade,G,10000,6100,3900,4700,5300,7.5
+NT,Northern Territory,Accommodation and Food Services,H,9200,5500,3700,3900,5300,6.9
+NT,Northern Territory,"Transport, Postal and Warehousing",I,6700,5400,1300,4800,1900,5.0
+NT,Northern Territory,Information Media and Telecommunications,J,1100,900,100,700,300,0.8
+NT,Northern Territory,Financial and Insurance Services,K,1500,1400,200,400,1100,1.1
+NT,Northern Territory,"Rental, Hiring and Real Estate Services",L,2400,2100,300,1100,1300,1.8
+NT,Northern Territory,"Professional, Scientific and Technical Services",M,6500,5700,800,4100,2400,4.9
+NT,Northern Territory,Administrative and Support Services,N,4000,2600,1400,2200,1900,3.0
+NT,Northern Territory,Public Administration and Safety,O,23700,20600,3100,11000,12800,17.8
+NT,Northern Territory,Education and Training,P,11300,8800,2400,3600,7700,8.5
+NT,Northern Territory,Health Care and Social Assistance,Q,15400,11700,3700,3600,11800,11.6
+NT,Northern Territory,Arts and Recreation Services,R,3400,2200,1200,1800,1600,2.6
+NT,Northern Territory,Other Services,S,6200,5100,1100,3600,2600,4.7
+ACT,Australian Capital Territory,"Agriculture, Forestry and Fishing",A,900,500,400,700,200,0.4
+ACT,Australian Capital Territory,Mining,B,0,0,0,0,0,0.0
+ACT,Australian Capital Territory,Manufacturing,C,4500,3500,1000,3500,1000,2.1
+ACT,Australian Capital Territory,"Electricity, Gas, Water and Waste Services",D,1800,1700,100,1500,300,0.9
+ACT,Australian Capital Territory,Construction,E,14400,12600,1800,13200,1200,6.9
+ACT,Australian Capital Territory,Wholesale Trade,F,2300,1900,400,1600,800,1.1
+ACT,Australian Capital Territory,Retail Trade,G,15400,7100,8300,6700,8700,7.3
+ACT,Australian Capital Territory,Accommodation and Food Services,H,13800,6500,7300,8000,5800,6.6
+ACT,Australian Capital Territory,"Transport, Postal and Warehousing",I,5700,4400,1200,4600,1100,2.7
+ACT,Australian Capital Territory,Information Media and Telecommunications,J,3800,3300,600,1900,2000,1.8
+ACT,Australian Capital Territory,Financial and Insurance Services,K,4800,3800,1000,1600,3200,2.3
+ACT,Australian Capital Territory,"Rental, Hiring and Real Estate Services",L,2900,2500,400,1900,1000,1.4
+ACT,Australian Capital Territory,"Professional, Scientific and Technical Services",M,21200,17100,4100,12800,8300,10.1
+ACT,Australian Capital Territory,Administrative and Support Services,N,6400,3700,2700,3100,3300,3.0
+ACT,Australian Capital Territory,Public Administration and Safety,O,62500,55300,7100,29900,32600,29.7
+ACT,Australian Capital Territory,Education and Training,P,17400,10800,6600,5400,12000,8.3
+ACT,Australian Capital Territory,Health Care and Social Assistance,Q,21600,13300,8400,4600,17000,10.3
+ACT,Australian Capital Territory,Arts and Recreation Services,R,4100,2400,1800,1800,2400,2.0
+ACT,Australian Capital Territory,Other Services,S,6700,4200,2600,3300,3500,3.2

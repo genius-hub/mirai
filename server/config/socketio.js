@@ -17,6 +17,12 @@ function onConnect(socket) {
   });
 
   // Insert sockets below
+  require('../api/vacanciesByIndustry/vacanciesByIndustry.socket').register(socket);
+  require('../api/singlesByAge/singlesByAge.socket').register(socket);
+  require('../api/helpPerSa4/helpPerSa4.socket').register(socket);
+  require('../api/employmentByIndustry/employmentByIndustry.socket').register(socket);
+  require('../api/averageIncomeByAge/averageIncomeByAge.socket').register(socket);
+  require('../api/incomeByAgeATO/incomeByAgeATO.socket').register(socket);
   require('../api/thing/thing.socket').register(socket);
 
 }

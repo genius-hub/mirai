@@ -6,7 +6,7 @@
 'use strict';
 import sqldb from '../sqldb';
 var User = sqldb.User;
-
+/*
 User.sync()
   .then(() => User.destroy({ where: {} }))
   .then(() => {
@@ -26,3 +26,4 @@ User.sync()
       console.log('finished populating users');
     });
   });
+*/
